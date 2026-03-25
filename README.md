@@ -66,11 +66,7 @@
 # 📊 GitHub Stats
 <div>
   
-  [![liner](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=r-liner&theme=2077)](github.com/r-liner)
-  [![liner](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=r-liner&theme=2077)](github.com/r-liner)
-  [![liner](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=r-liner&theme=2077)](github.com/r-liner)
-  
-  <!-- [![Github Stats](https://github-readme-stats.vercel.app/api?username=r-liner&show_icons=true&theme=default)](github.com/r-liner) -->
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liner-exe\&layout=compact&hide=Jupyter%20Notebook)
   
 </div>
 <br>
