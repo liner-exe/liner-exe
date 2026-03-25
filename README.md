@@ -65,8 +65,9 @@
 
 # 📊 GitHub Stats
 <div>
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liner-exe\&layout=compact&hide=Jupyter%20Notebook)
+
+  ![LinerExe's Stats](https://github-readme-stats.vercel.app/api?username=liner-exe&line_height=24)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liner-exe\&layout=compact&hide=Jupyter%20Notebook&langs_count=8)
   
 </div>
 <br>
