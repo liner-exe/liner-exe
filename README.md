@@ -26,6 +26,11 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=liner-exe&theme=transparent&no-frame=false&no-bg=false&margin-w=4)
 
+<details align="center">
+  <summary>All time contribution by year</summary>
+  <img width="845" height="1095" alt="image" src="https://github.com/user-attachments/assets/2a033f60-bf3a-46ea-808a-d8b0921d8466" />
+</details>
+
 <p align="center">
   <a href="https://github.com/r-liner" text-align=center>
      <img src="https://komarev.com/ghpvc/?username=r-liner&style=for-the-badge" alt=r-liner'>
