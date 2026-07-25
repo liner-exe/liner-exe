@@ -7,7 +7,8 @@
 
 # 💻 Tech Stack:
 ![](https://skillicons.dev/icons?i=c,cpp,cs,java,kotlin,python,html,css,js,bash,md)<br>
-![](https://skillicons.dev/icons?i=qt,bootstrap,cmake,docker,gradle,postman,postgres,mysql,sqlite)<br>
+![](https://skillicons.dev/icons?i=qt,bootstrap,cmake,docker,gradle,postman,postgres,mysql,sqlite,regex)<br>
+![](https://skillicons.dev/icons?i=clion,idea,pycharm,rider,webstorm,vscode,visualstudio,androidstudio)<br>
 ![](https://skillicons.dev/icons?i=ai,ps,figma,unreal,unity)
 
 # 📊 GitHub Stats:
